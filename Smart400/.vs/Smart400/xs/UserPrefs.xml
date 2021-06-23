@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{9852F5A5-65A7-4EF1-8D0A-18582FA03880}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Smart400/Services/As400Service.cs">
+    <Files>
+      <File FileName="Smart400/Repositories/As400Repository.cs" Line="41" Column="1" />
+      <File FileName="Smart400/Services/As400Service.cs" Line="17" Column="6" />
+      <File FileName="Smart400/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Smart400" expanded="True">
+            <Node name="Smart400" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="ApiControllers" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="As400Service.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Smart400 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
